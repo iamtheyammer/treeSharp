@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\treeSharp\treeSharp\bin\Debug\treeSharp.exe.config
+C:\Users\George\source\repos\treeSharp\treeSharp\bin\Debug\treeSharp.exe
+C:\Users\George\source\repos\treeSharp\treeSharp\bin\Debug\treeSharp.pdb
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.csprojAssemblyReference.cache
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.exe
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.pdb
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.Properties.Resources.resources
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.csproj.GenerateResource.cache
+C:\Users\George\source\repos\treeSharp\treeSharp\bin\Debug\treeSharp.exe.manifest
+C:\Users\George\source\repos\treeSharp\treeSharp\bin\Debug\treeSharp.application
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.exe.manifest
+C:\Users\George\source\repos\treeSharp\treeSharp\obj\Debug\treeSharp.application
