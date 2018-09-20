@@ -34,9 +34,14 @@ Done!
 
 Once following the installation steps, just open cmd and type `tree` and press enter.
 
+#### [Check out a demo here](https://youtu.be/tmdDQk4FeR4)
+
 ## Differences between the real tree and treeSharp
 
 - The real tree actually shows real stuff from your computer
 - Much smaller (ours is about 4MB the original is 4KB)
 - While scammers can type into treeSharp, each character they type makes the lines 25ms slower.
 - Once 200 characters are typed into treeSharp, it will stop and print out what the scammer typed in tree, in reverse, in a fake tree prompt. See screenshots for examples.
+
+## Contributions
+Are always welcomed!
